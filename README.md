@@ -1,1 +1,1 @@
-# Building Joint Densities From Implied Volatility Skew Triplets And Pricing Exotic Dual Underlying or Dual Time Dependent Options.
+# Admissible Joint Densities Construction From Implied Volatility Skew Triplets Under Minimum Relative Entropy Methods.
